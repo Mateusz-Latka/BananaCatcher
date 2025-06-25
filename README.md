@@ -1,6 +1,7 @@
 # 🍌 Banana Catcher
 
 **Banana Catcher** to prosta gra 2D stworzona w języku **C++** z wykorzystaniem biblioteki **SFML 3.0**. Gracz wciela się w małpkę i łapie spadające banany, zdobywając punkty. Zbyt wiele pominiętych bananów kończy grę!
+![image](https://github.com/user-attachments/assets/364e45e5-15de-4e9e-8287-7aef8fc246e3)
 
 ---
 
